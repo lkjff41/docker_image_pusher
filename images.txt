@@ -1,3 +1,4 @@
 nginx
 apache/rocketmq:5.1.0
 apacherocketmq/rocketmq-dashboard:latest
+openjdk:17
